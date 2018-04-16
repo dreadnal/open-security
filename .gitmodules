@@ -1,0 +1,9 @@
+[submodule "open-security-server"]
+	path = open-security-server
+	url = https://github.com/dreadnal/open-security-server
+[submodule "open-security-mobile"]
+	path = open-security-mobile
+	url = https://github.com/dreadnal/open-security-mobile
+[submodule "open-security-sensor"]
+	path = open-security-sensor
+	url = https://github.com/dreadnal/open-security-sensor
